@@ -1,0 +1,31 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: white;
+    text-align: center;
+    padding: 100px;
+}
+h2{
+    text-align: center;
+    padding: 20px;     
+}
+p{
+    display: inline;
+}
+a{
+    display: block;
+    float: left; 
+    padding: 0 20px;
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: white;
+}
+img{
+    object-fit: cover;
+}
